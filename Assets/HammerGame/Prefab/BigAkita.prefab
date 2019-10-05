@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &2978104240581938685
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4775825801316367005, guid: 6dd2bf68d2aaf6249b50f26011c10f03,
+        type: 3}
+      propertyPath: m_Name
+      value: BigAkita
+      objectReference: {fileID: 0}
+    - target: {fileID: 4322195622450356170, guid: 6dd2bf68d2aaf6249b50f26011c10f03,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4322195622450356170, guid: 6dd2bf68d2aaf6249b50f26011c10f03,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4322195622450356170, guid: 6dd2bf68d2aaf6249b50f26011c10f03,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4322195622450356170, guid: 6dd2bf68d2aaf6249b50f26011c10f03,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4322195622450356170, guid: 6dd2bf68d2aaf6249b50f26011c10f03,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4322195622450356170, guid: 6dd2bf68d2aaf6249b50f26011c10f03,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4322195622450356170, guid: 6dd2bf68d2aaf6249b50f26011c10f03,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4322195622450356170, guid: 6dd2bf68d2aaf6249b50f26011c10f03,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4322195622450356170, guid: 6dd2bf68d2aaf6249b50f26011c10f03,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4322195622450356170, guid: 6dd2bf68d2aaf6249b50f26011c10f03,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4322195622450356170, guid: 6dd2bf68d2aaf6249b50f26011c10f03,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4322195622450356170, guid: 6dd2bf68d2aaf6249b50f26011c10f03,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.55
+      objectReference: {fileID: 0}
+    - target: {fileID: 4322195622450356170, guid: 6dd2bf68d2aaf6249b50f26011c10f03,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.55
+      objectReference: {fileID: 0}
+    - target: {fileID: 4322195622450356170, guid: 6dd2bf68d2aaf6249b50f26011c10f03,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.55
+      objectReference: {fileID: 0}
+    - target: {fileID: 2346855708335265964, guid: 6dd2bf68d2aaf6249b50f26011c10f03,
+        type: 3}
+      propertyPath: type
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2346855708335265964, guid: 6dd2bf68d2aaf6249b50f26011c10f03,
+        type: 3}
+      propertyPath: maxHp
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 6956155172442226668, guid: 6dd2bf68d2aaf6249b50f26011c10f03,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 556ddd9d128bd452da3e4fc74b739c03, type: 2}
+    - target: {fileID: 6188732141063061642, guid: 6dd2bf68d2aaf6249b50f26011c10f03,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 556ddd9d128bd452da3e4fc74b739c03, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6dd2bf68d2aaf6249b50f26011c10f03, type: 3}

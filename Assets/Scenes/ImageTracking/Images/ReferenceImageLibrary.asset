@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5438900029218683827
+  m_GuidHigh: 11338665651040755373
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5602505921028117032
+      m_GuidHigh: 208412801924047543
+    m_SerializedTextureGuid:
+      m_GuidLow: 288924497207985411
+      m_GuidHigh: 4143232447317295274
+    m_Size: {x: 0.05, y: 0.05}
+    m_SpecifySize: 1
+    m_Name: QRCode
+    m_Texture: {fileID: 2800000, guid: a6fd8503774c0402aa403884f5b77f39, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4650045473784474248
+      m_GuidHigh: 7175081956260687538
+    m_SerializedTextureGuid:
+      m_GuidLow: 4958569060922167754
+      m_GuidHigh: 12708512392745385048
+    m_Size: {x: 0.15, y: 0.15}
+    m_SpecifySize: 1
+    m_Name: animals
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5231854911235476222
+      m_GuidHigh: 13082686912623359935
+    m_SerializedTextureGuid:
+      m_GuidLow: 16473035739106630776
+      m_GuidHigh: 6172790865200521209
+    m_Size: {x: 0.09002542, y: 0.05}
+    m_SpecifySize: 1
+    m_Name: Tarjeta final provisional
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5031136764911741221
+      m_GuidHigh: 9008533247635294354
+    m_SerializedTextureGuid:
+      m_GuidLow: 15344142769782952912
+      m_GuidHigh: 9146314561466785466
+    m_Size: {x: 0.1, y: 0.1012766}
+    m_SpecifySize: 1
+    m_Name: QrRPocket
+    m_Texture: {fileID: 0}
